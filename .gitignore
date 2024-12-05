@@ -1,0 +1,35 @@
+# Archivos de compilación generados por Cargo
+/target/
+
+# Archivos binarios generados por Cargo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos de configuración de editor (VSCode, IntelliJ, etc.)
+.vscode/
+/.idea/
+
+# Dependencias descargadas (especificadas en Cargo.lock)
+Cargo.lock
+
+# Archivos de configuración de Rust (solo para compilación, no para el repositorio)
+*.rs.bk
+*.rs.cbs
+/target
+# Archivos de compilación generados por Cargo
+/target/
+
+# Archivos binarios generados por Cargo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos de configuración de editor (VSCode, IntelliJ, etc.)
+.vscode/
+
+# Archivos de configuración de Rust (solo para compilación, no para el repositorio)
+*.rs.bk
+*.rs.cbs
