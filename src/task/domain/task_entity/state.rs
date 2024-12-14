@@ -1,12 +1,12 @@
 #[derive(Debug, Clone, PartialEq)]
-
 pub enum  StateLifeCycle{
     ToDo,
     InProgress,
-    Done
+    Done,
+    Expirated
 }
 
-
+#[derive(Debug, Clone, PartialEq)]
 pub enum StateManagement {
     Created, // when it's created but not modified
     Modifying, 
